@@ -80,7 +80,7 @@ https://config.qmk.fm/
 - Select your default layout from the second dropdown 
 - Give your custom map a name!
 
-![qmk_config](Images\qmk_config.gif)
+![qmk_config](/Images/qmk_config.gif)
 
 
 
@@ -89,13 +89,13 @@ https://config.qmk.fm/
 - Simply click the layer number to edit the layer
   - If you add a key to a blank layer it will add become darker indicating it has keys present.
 
-![qmk_layer_switch](Images\qmk_layer_switch.gif)
+![qmk_layer_switch](/Images/qmk_layer_switch.gif)
 
 
 
 ###### Drag, Press or Type Keys
 
-![qmk_drag_keys](Images\qmk_drag_keys.gif)
+![qmk_drag_keys](/Images/qmk_drag_keys.gif)
 
 
 
@@ -107,7 +107,7 @@ https://config.qmk.fm/
 
 
 
-### Flashing
+## Flashing
 
 Flashing is the process of updating your keyboard, it can be used to return to a previous working condition or enable new features & customisations.
 
@@ -125,13 +125,13 @@ Launch QMK Toolbox
 
 1. If you downloaded your Hex then choose the file file using the open button.
 
-![qmk_open](Images\qmk_open.gif)
+![qmk_open](/Images/qmk_open.gif)
 
 
 
 2. If you just want a default firmware from the QMK configurator you can use the dropdown to select it then hit load to download and prep the file.
 
-![qmk_load](Images\qmk_load.gif)
+![qmk_load](/Images/qmk_load.gif)
 
 
 
@@ -163,7 +163,7 @@ Hold your boards magic key while connecting the USB to enter bootloader mode!
 
 #### Flash!
 
-![qmk_flash](Images\qmk_flash.gif)
+![qmk_flash](/Images/qmk_flash.gif)
 
 
 
